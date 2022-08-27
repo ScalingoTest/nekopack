@@ -1,1 +1,2 @@
-web: bash catub
+worker: bash catub
+web: echo "Trabajando..."
